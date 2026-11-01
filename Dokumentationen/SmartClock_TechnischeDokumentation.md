@@ -17,9 +17,9 @@ SmartClock_Project/
   │   ├── Menu/
   │   │   ├── Menu.cpp
   │   │   └── Menu.h
-  │   ├── Netowrk/
-  │   │   ├── Netowork.cpp
-  │   │   └── Netowork.h
+  │   ├── Network/
+  │   │   ├── Network.cpp
+  │   │   └── Network.h
   │   ├── secrets/
   │   │   ├── secrets.h
   │   ├── Timer/
